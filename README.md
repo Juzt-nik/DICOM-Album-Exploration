@@ -164,4 +164,4 @@ pydicom>=3.0.0
 
 ## 👤 Author
 
-Built by [Your Name] as a pre-proposal exploration for GSoC 2026.
+Built by Sagnik Roy Chowdhury as a pre-proposal exploration for GSoC 2026.
