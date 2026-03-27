@@ -1,0 +1,737 @@
+~ SAGNIK ROY CHOWDHURY@Nik6-Lenov MINGW64 /a/dicom-album-explorer (main)
+$ python explorer.py demo
+
+🚀 Loading pydicom built-in test DICOM files...
+C:\Users\SAGNIK ROY CHOWDHURY\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydicom\filereader.py:402: UserWarning: Expected explicit VR, but found implicit VR - using implicit VR for reading       
+  warn_and_log(f"{msg} - using {found_vr} VR for reading", UserWarning)
+   Loaded 63 DICOM files
+
+════════════════════════════════════════════════════════════
+  📁 DICOM ALBUM SUMMARY
+════════════════════════════════════════════════════════════
+  Total albums found: 21
+
+  Album #1
+  ├─ Patient ID      : CQ500-CT-310
+  ├─ Study Date      :
+  ├─ Modalities      : CT (Computed Tomography)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/42b8058c3902bf06
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/42b8058c3902bf06/ohif
+
+  Album #2
+  ├─ Patient ID      : id11111
+  ├─ Study Date      : August 05, 2003
+  ├─ Modalities      : RTDOSE (Radiation Therapy Dose)
+  ├─ Series          : 1
+  ├─ Instances       : 7
+  ├─ Shareable URL   : https://kheops.example.org/api/link/fe3790dc24e9636e
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/fe3790dc24e9636e/ohif
+
+  Album #3
+  ├─ Patient ID      : 1CT1
+  ├─ Study Date      : January 19, 2004
+  ├─ Modalities      : CT (Computed Tomography)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/2966c9f9fbae278d
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/2966c9f9fbae278d/ohif
+
+  Album #4
+  ├─ Patient ID      : 13US1
+  ├─ Study Date      : August 26, 2004
+  ├─ Modalities      : US (Ultrasound)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/2b2ea77dc3272d5b
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/2b2ea77dc3272d5b/ohif
+
+  Album #5
+  ├─ Patient ID      : 021234567
+  ├─ Study Date      : November 30, 2005
+  ├─ Modalities      : MR (Magnetic Resonance)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/b99b47c653a8e527
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/b99b47c653a8e527/ohif
+
+  Album #6
+  ├─ Patient ID      : 11-05-25-142825
+  ├─ Study Date      : May 25, 2011
+  ├─ Modalities      : US (Ultrasound)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/976b9d6128efe1a2
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/976b9d6128efe1a2/ohif
+
+  Album #7
+  ├─ Patient ID      : 204
+  ├─ Study Date      : May 03, 2016
+  ├─ Modalities      : US (Ultrasound)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/43a000782f7258af
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/43a000782f7258af/ohif
+
+  Album #8
+  ├─ Patient ID      : N/A
+  ├─ Study Date      : 1997.04.24
+  ├─ Modalities      : US (Ultrasound)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/e0bb4fc83b9be087
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/e0bb4fc83b9be087/ohif
+
+  Album #9
+  ├─ Patient ID      : N/A
+  ├─ Study Date      : May 15, 2015
+  ├─ Modalities      : RTPLAN (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/ed7d08963da50324
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/ed7d08963da50324/ohif
+
+  Album #10
+  ├─ Patient ID      :
+  ├─ Study Date      :
+  ├─ Modalities      : OT (Other)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/81c4fe0bcc740250
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/81c4fe0bcc740250/ohif
+
+  Album #11
+  ├─ Patient ID      : JXD191021006
+  ├─ Study Date      : October 19, 2019
+  ├─ Modalities      : CT (Computed Tomography)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/81c0ea277e950a61
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/81c0ea277e950a61/ohif
+
+  Album #12
+  ├─ Patient ID      : 8NM1
+  ├─ Study Date      : August 26, 2004
+  ├─ Modalities      : NM (Nuclear Medicine)
+  ├─ Series          : 1
+  ├─ Instances       : 4
+  ├─ Shareable URL   : https://kheops.example.org/api/link/2d3124a2a373f8f5
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/2d3124a2a373f8f5/ohif
+
+  Album #13
+  ├─ Patient ID      : 99000
+  ├─ Study Date      : April 17, 2003
+  ├─ Modalities      : SEG (Segmentation)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/ed278eb38ced563a
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/ed278eb38ced563a/ohif
+
+  Album #14
+  ├─ Patient ID      : 4MR1
+  ├─ Study Date      : August 26, 2004
+  ├─ Modalities      : MR (Magnetic Resonance)
+  ├─ Series          : 1
+  ├─ Instances       : 9
+  ├─ Shareable URL   : https://kheops.example.org/api/link/e4c2d72eee037e98
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/e4c2d72eee037e98/ohif
+
+  Album #15
+  ├─ Patient ID      :
+  ├─ Study Date      :
+  ├─ Modalities      : SR (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/253e6e8dda369dcb
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/253e6e8dda369dcb/ohif
+
+  Album #16
+  ├─ Patient ID      : id00001
+  ├─ Study Date      : July 16, 2003
+  ├─ Modalities      : RTPLAN (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/76e0f0ded8459b82
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/76e0f0ded8459b82/ohif
+
+  Album #17
+  ├─ Patient ID      : tPhantom30sep
+  ├─ Study Date      :
+  ├─ Modalities      : RTSTRUCT (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/719aeef7e7457a36
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/719aeef7e7457a36/ohif
+
+  Album #18
+  ├─ Patient ID      : ID1
+  ├─ Study Date      : January 01, 2017
+  ├─ Modalities      : OT (Other)
+  ├─ Series          : 1
+  ├─ Instances       : 20
+  ├─ Shareable URL   : https://kheops.example.org/api/link/11c2ff998db3beff
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/11c2ff998db3beff/ohif
+
+  Album #19
+  ├─ Patient ID      :
+  ├─ Study Date      :
+  ├─ Modalities      : OT (Other)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/aafa4051a05f4e7d
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/aafa4051a05f4e7d/ohif
+
+  Album #20
+  ├─ Patient ID      :
+  ├─ Study Date      :
+  ├─ Modalities      : SR (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/702dd92424bd9861
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/702dd92424bd9861/ohif
+
+  Album #21
+  ├─ Patient ID      : 642341
+  ├─ Study Date      : January 25, 2013
+  ├─ Modalities      : ECG (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/7deca16402054086
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/7deca16402054086/ohif
+
+
+════════════════════════════════════════════════════════════
+  📊 COLLECTION STATISTICS
+════════════════════════════════════════════════════════════
+  Total Albums    : 21
+  Total Series    : 21
+  Total Instances : 63
+
+  Modality Breakdown:
+    US       (Ultrasound                    ) ████ 4
+    CT       (Computed Tomography           ) ███ 3
+    OT       (Other                         ) ███ 3
+    MR       (Magnetic Resonance            ) ██ 2
+    RTPLAN   (Unknown                       ) ██ 2
+    SR       (Unknown                       ) ██ 2
+    RTDOSE   (Radiation Therapy Dose        ) █ 1
+    NM       (Nuclear Medicine              ) █ 1
+    SEG      (Segmentation                  ) █ 1
+    RTSTRUCT (Unknown                       ) █ 1
+    ECG      (Unknown                       ) █ 1
+
+~ SAGNIK ROY CHOWDHURY@Nik6-Lenov MINGW64 /a/dicom-album-explorer (main)
+$ python explorer.py demo --modality CT
+
+🚀 Loading pydicom built-in test DICOM files...
+C:\Users\SAGNIK ROY CHOWDHURY\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydicom\filereader.py:402: UserWarning: Expected explicit VR, but found implicit VR - using implicit VR for reading       
+  warn_and_log(f"{msg} - using {found_vr} VR for reading", UserWarning)
+   Loaded 63 DICOM files
+
+════════════════════════════════════════════════════════════
+  📁 DICOM ALBUM SUMMARY
+════════════════════════════════════════════════════════════
+  Total albums found: 3
+
+  Album #1
+  ├─ Patient ID      : CQ500-CT-310
+  ├─ Study Date      :
+  ├─ Modalities      : CT (Computed Tomography)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/42b8058c3902bf06
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/42b8058c3902bf06/ohif
+
+  Album #2
+  ├─ Patient ID      : 1CT1
+  ├─ Study Date      : January 19, 2004
+  ├─ Modalities      : CT (Computed Tomography)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/2966c9f9fbae278d
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/2966c9f9fbae278d/ohif
+
+  Album #3
+  ├─ Patient ID      : JXD191021006
+  ├─ Study Date      : October 19, 2019
+  ├─ Modalities      : CT (Computed Tomography)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/81c0ea277e950a61
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/81c0ea277e950a61/ohif
+
+
+════════════════════════════════════════════════════════════
+  📊 COLLECTION STATISTICS
+════════════════════════════════════════════════════════════
+  Total Albums    : 3
+  Total Series    : 3
+  Total Instances : 3
+
+  Modality Breakdown:
+    CT       (Computed Tomography           ) ███ 3
+
+~ SAGNIK ROY CHOWDHURY@Nik6-Lenov MINGW64 /a/dicom-album-explorer (main)
+$ python explorer.py demo --detail
+
+🚀 Loading pydicom built-in test DICOM files...
+C:\Users\SAGNIK ROY CHOWDHURY\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydicom\filereader.py:402: UserWarning: Expected explicit VR, but found implicit VR - using implicit VR for reading       
+  warn_and_log(f"{msg} - using {found_vr} VR for reading", UserWarning)
+   Loaded 63 DICOM files
+
+════════════════════════════════════════════════════════════
+  📁 DICOM ALBUM SUMMARY
+════════════════════════════════════════════════════════════
+  Total albums found: 21
+
+  Album #1
+  ├─ Patient ID      : CQ500-CT-310
+  ├─ Study Date      :
+  ├─ Modalities      : CT (Computed Tomography)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/42b8058c3902bf06
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/42b8058c3902bf06/ohif
+
+  Album #2
+  ├─ Patient ID      : id11111
+  ├─ Study Date      : August 05, 2003
+  ├─ Modalities      : RTDOSE (Radiation Therapy Dose)
+  ├─ Series          : 1
+  ├─ Instances       : 7
+  ├─ Shareable URL   : https://kheops.example.org/api/link/fe3790dc24e9636e
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/fe3790dc24e9636e/ohif
+
+  Album #3
+  ├─ Patient ID      : 1CT1
+  ├─ Study Date      : January 19, 2004
+  ├─ Modalities      : CT (Computed Tomography)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/2966c9f9fbae278d
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/2966c9f9fbae278d/ohif
+
+  Album #4
+  ├─ Patient ID      : 13US1
+  ├─ Study Date      : August 26, 2004
+  ├─ Modalities      : US (Ultrasound)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/2b2ea77dc3272d5b
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/2b2ea77dc3272d5b/ohif
+
+  Album #5
+  ├─ Patient ID      : 021234567
+  ├─ Study Date      : November 30, 2005
+  ├─ Modalities      : MR (Magnetic Resonance)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/b99b47c653a8e527
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/b99b47c653a8e527/ohif
+
+  Album #6
+  ├─ Patient ID      : 11-05-25-142825
+  ├─ Study Date      : May 25, 2011
+  ├─ Modalities      : US (Ultrasound)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/976b9d6128efe1a2
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/976b9d6128efe1a2/ohif
+
+  Album #7
+  ├─ Patient ID      : 204
+  ├─ Study Date      : May 03, 2016
+  ├─ Modalities      : US (Ultrasound)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/43a000782f7258af
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/43a000782f7258af/ohif
+
+  Album #8
+  ├─ Patient ID      : N/A
+  ├─ Study Date      : 1997.04.24
+  ├─ Modalities      : US (Ultrasound)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/e0bb4fc83b9be087
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/e0bb4fc83b9be087/ohif
+
+  Album #9
+  ├─ Patient ID      : N/A
+  ├─ Study Date      : May 15, 2015
+  ├─ Modalities      : RTPLAN (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/ed7d08963da50324
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/ed7d08963da50324/ohif
+
+  Album #10
+  ├─ Patient ID      :
+  ├─ Study Date      :
+  ├─ Modalities      : OT (Other)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/81c4fe0bcc740250
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/81c4fe0bcc740250/ohif
+
+  Album #11
+  ├─ Patient ID      : JXD191021006
+  ├─ Study Date      : October 19, 2019
+  ├─ Modalities      : CT (Computed Tomography)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/81c0ea277e950a61
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/81c0ea277e950a61/ohif
+
+  Album #12
+  ├─ Patient ID      : 8NM1
+  ├─ Study Date      : August 26, 2004
+  ├─ Modalities      : NM (Nuclear Medicine)
+  ├─ Series          : 1
+  ├─ Instances       : 4
+  ├─ Shareable URL   : https://kheops.example.org/api/link/2d3124a2a373f8f5
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/2d3124a2a373f8f5/ohif
+
+  Album #13
+  ├─ Patient ID      : 99000
+  ├─ Study Date      : April 17, 2003
+  ├─ Modalities      : SEG (Segmentation)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/ed278eb38ced563a
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/ed278eb38ced563a/ohif
+
+  Album #14
+  ├─ Patient ID      : 4MR1
+  ├─ Study Date      : August 26, 2004
+  ├─ Modalities      : MR (Magnetic Resonance)
+  ├─ Series          : 1
+  ├─ Instances       : 9
+  ├─ Shareable URL   : https://kheops.example.org/api/link/e4c2d72eee037e98
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/e4c2d72eee037e98/ohif
+
+  Album #15
+  ├─ Patient ID      :
+  ├─ Study Date      :
+  ├─ Modalities      : SR (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/253e6e8dda369dcb
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/253e6e8dda369dcb/ohif
+
+  Album #16
+  ├─ Patient ID      : id00001
+  ├─ Study Date      : July 16, 2003
+  ├─ Modalities      : RTPLAN (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/76e0f0ded8459b82
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/76e0f0ded8459b82/ohif
+
+  Album #17
+  ├─ Patient ID      : tPhantom30sep
+  ├─ Study Date      :
+  ├─ Modalities      : RTSTRUCT (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/719aeef7e7457a36
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/719aeef7e7457a36/ohif
+
+  Album #18
+  ├─ Patient ID      : ID1
+  ├─ Study Date      : January 01, 2017
+  ├─ Modalities      : OT (Other)
+  ├─ Series          : 1
+  ├─ Instances       : 20
+  ├─ Shareable URL   : https://kheops.example.org/api/link/11c2ff998db3beff
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/11c2ff998db3beff/ohif
+
+  Album #19
+  ├─ Patient ID      :
+  ├─ Study Date      :
+  ├─ Modalities      : OT (Other)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/aafa4051a05f4e7d
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/aafa4051a05f4e7d/ohif
+
+  Album #20
+  ├─ Patient ID      :
+  ├─ Study Date      :
+  ├─ Modalities      : SR (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/702dd92424bd9861
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/702dd92424bd9861/ohif
+
+  Album #21
+  ├─ Patient ID      : 642341
+  ├─ Study Date      : January 25, 2013
+  ├─ Modalities      : ECG (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/7deca16402054086
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/7deca16402054086/ohif
+
+
+════════════════════════════════════════════════════════════
+  📊 COLLECTION STATISTICS
+════════════════════════════════════════════════════════════
+  Total Albums    : 21
+  Total Series    : 21
+  Total Instances : 63
+
+  Modality Breakdown:
+    US       (Ultrasound                    ) ████ 4
+    CT       (Computed Tomography           ) ███ 3
+    OT       (Other                         ) ███ 3
+    MR       (Magnetic Resonance            ) ██ 2
+    RTPLAN   (Unknown                       ) ██ 2
+    SR       (Unknown                       ) ██ 2
+    RTDOSE   (Radiation Therapy Dose        ) █ 1
+    NM       (Nuclear Medicine              ) █ 1
+    SEG      (Segmentation                  ) █ 1
+    RTSTRUCT (Unknown                       ) █ 1
+    ECG      (Unknown                       ) █ 1
+
+════════════════════════════════════════════════════════════
+  🔬 DICOM FILE: 693_J2KI.dcm
+════════════════════════════════════════════════════════════
+  PatientID                : CQ500-CT-310
+  PatientName              : CQ500-CT-310
+  StudyInstanceUID         : 1.2.276.0.7230010.3.1.2.296485376.1.1521713414.1800996
+  SeriesInstanceUID        : 1.2.276.0.7230010.3.1.3.296485376.1.1521713419.1802493
+  SeriesNumber             : 2
+  SeriesDescription        : 5/5mm Plain
+  SOPInstanceUID           : 1.2.826.0.1.3680043.2.1143.6234428899086018376578420169896863246
+  SOPClassUID              : 1.2.840.10008.5.1.4.1.1.2
+  Modality                 : CT
+  Rows                     : 512
+  Columns                  : 512
+  BitsAllocated            : 16
+
+~ SAGNIK ROY CHOWDHURY@Nik6-Lenov MINGW64 /a/dicom-album-explorer (main)
+$ python explorer.py demo --export albums.json
+
+🚀 Loading pydicom built-in test DICOM files...
+C:\Users\SAGNIK ROY CHOWDHURY\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydicom\filereader.py:402: UserWarning: Expected explicit VR, but found implicit VR - using implicit VR for reading       
+  warn_and_log(f"{msg} - using {found_vr} VR for reading", UserWarning)
+   Loaded 63 DICOM files
+
+════════════════════════════════════════════════════════════
+  📁 DICOM ALBUM SUMMARY
+════════════════════════════════════════════════════════════
+  Total albums found: 21
+
+  Album #1
+  ├─ Patient ID      : CQ500-CT-310
+  ├─ Study Date      :
+  ├─ Modalities      : CT (Computed Tomography)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/42b8058c3902bf06
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/42b8058c3902bf06/ohif
+
+  Album #2
+  ├─ Patient ID      : id11111
+  ├─ Study Date      : August 05, 2003
+  ├─ Modalities      : RTDOSE (Radiation Therapy Dose)
+  ├─ Series          : 1
+  ├─ Instances       : 7
+  ├─ Shareable URL   : https://kheops.example.org/api/link/fe3790dc24e9636e
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/fe3790dc24e9636e/ohif
+
+  Album #3
+  ├─ Patient ID      : 1CT1
+  ├─ Study Date      : January 19, 2004
+  ├─ Modalities      : CT (Computed Tomography)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/2966c9f9fbae278d
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/2966c9f9fbae278d/ohif
+
+  Album #4
+  ├─ Patient ID      : 13US1
+  ├─ Study Date      : August 26, 2004
+  ├─ Modalities      : US (Ultrasound)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/2b2ea77dc3272d5b
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/2b2ea77dc3272d5b/ohif
+
+  Album #5
+  ├─ Patient ID      : 021234567
+  ├─ Study Date      : November 30, 2005
+  ├─ Modalities      : MR (Magnetic Resonance)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/b99b47c653a8e527
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/b99b47c653a8e527/ohif
+
+  Album #6
+  ├─ Patient ID      : 11-05-25-142825
+  ├─ Study Date      : May 25, 2011
+  ├─ Modalities      : US (Ultrasound)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/976b9d6128efe1a2
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/976b9d6128efe1a2/ohif
+
+  Album #7
+  ├─ Patient ID      : 204
+  ├─ Study Date      : May 03, 2016
+  ├─ Modalities      : US (Ultrasound)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/43a000782f7258af
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/43a000782f7258af/ohif
+
+  Album #8
+  ├─ Patient ID      : N/A
+  ├─ Study Date      : 1997.04.24
+  ├─ Modalities      : US (Ultrasound)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/e0bb4fc83b9be087
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/e0bb4fc83b9be087/ohif
+
+  Album #9
+  ├─ Patient ID      : N/A
+  ├─ Study Date      : May 15, 2015
+  ├─ Modalities      : RTPLAN (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/ed7d08963da50324
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/ed7d08963da50324/ohif
+
+  Album #10
+  ├─ Patient ID      :
+  ├─ Study Date      :
+  ├─ Modalities      : OT (Other)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/81c4fe0bcc740250
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/81c4fe0bcc740250/ohif
+
+  Album #11
+  ├─ Patient ID      : JXD191021006
+  ├─ Study Date      : October 19, 2019
+  ├─ Modalities      : CT (Computed Tomography)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/81c0ea277e950a61
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/81c0ea277e950a61/ohif
+
+  Album #12
+  ├─ Patient ID      : 8NM1
+  ├─ Study Date      : August 26, 2004
+  ├─ Modalities      : NM (Nuclear Medicine)
+  ├─ Series          : 1
+  ├─ Instances       : 4
+  ├─ Shareable URL   : https://kheops.example.org/api/link/2d3124a2a373f8f5
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/2d3124a2a373f8f5/ohif
+
+  Album #13
+  ├─ Patient ID      : 99000
+  ├─ Study Date      : April 17, 2003
+  ├─ Modalities      : SEG (Segmentation)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/ed278eb38ced563a
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/ed278eb38ced563a/ohif
+
+  Album #14
+  ├─ Patient ID      : 4MR1
+  ├─ Study Date      : August 26, 2004
+  ├─ Modalities      : MR (Magnetic Resonance)
+  ├─ Series          : 1
+  ├─ Instances       : 9
+  ├─ Shareable URL   : https://kheops.example.org/api/link/e4c2d72eee037e98
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/e4c2d72eee037e98/ohif
+
+  Album #15
+  ├─ Patient ID      :
+  ├─ Study Date      :
+  ├─ Modalities      : SR (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/253e6e8dda369dcb
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/253e6e8dda369dcb/ohif
+
+  Album #16
+  ├─ Patient ID      : id00001
+  ├─ Study Date      : July 16, 2003
+  ├─ Modalities      : RTPLAN (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/76e0f0ded8459b82
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/76e0f0ded8459b82/ohif
+
+  Album #17
+  ├─ Patient ID      : tPhantom30sep
+  ├─ Study Date      :
+  ├─ Modalities      : RTSTRUCT (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/719aeef7e7457a36
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/719aeef7e7457a36/ohif
+
+  Album #18
+  ├─ Patient ID      : ID1
+  ├─ Study Date      : January 01, 2017
+  ├─ Modalities      : OT (Other)
+  ├─ Series          : 1
+  ├─ Instances       : 20
+  ├─ Shareable URL   : https://kheops.example.org/api/link/11c2ff998db3beff
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/11c2ff998db3beff/ohif
+
+  Album #19
+  ├─ Patient ID      :
+  ├─ Study Date      :
+  ├─ Modalities      : OT (Other)
+  ├─ Series          : 1
+  ├─ Instances       : 2
+  ├─ Shareable URL   : https://kheops.example.org/api/link/aafa4051a05f4e7d
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/aafa4051a05f4e7d/ohif
+
+  Album #20
+  ├─ Patient ID      :
+  ├─ Study Date      :
+  ├─ Modalities      : SR (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/702dd92424bd9861
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/702dd92424bd9861/ohif
+
+  Album #21
+  ├─ Patient ID      : 642341
+  ├─ Study Date      : January 25, 2013
+  ├─ Modalities      : ECG (Unknown)
+  ├─ Series          : 1
+  ├─ Instances       : 1
+  ├─ Shareable URL   : https://kheops.example.org/api/link/7deca16402054086
+  └─ OHIF Viewer URL : https://kheops.example.org/api/link/7deca16402054086/ohif
+
+
+════════════════════════════════════════════════════════════
+  📊 COLLECTION STATISTICS
+════════════════════════════════════════════════════════════
+  Total Albums    : 21
+  Total Series    : 21
+  Total Instances : 63
+
+  Modality Breakdown:
+    US       (Ultrasound                    ) ████ 4
+    CT       (Computed Tomography           ) ███ 3
+    OT       (Other                         ) ███ 3
+    MR       (Magnetic Resonance            ) ██ 2
+    RTPLAN   (Unknown                       ) ██ 2
+    SR       (Unknown                       ) ██ 2
+    RTDOSE   (Radiation Therapy Dose        ) █ 1
+    NM       (Nuclear Medicine              ) █ 1
+    SEG      (Segmentation                  ) █ 1
+    RTSTRUCT (Unknown                       ) █ 1
+    ECG      (Unknown                       ) █ 1
+
+✅ Album manifest exported → albums.json

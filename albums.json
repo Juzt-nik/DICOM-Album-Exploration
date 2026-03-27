@@ -1,0 +1,275 @@
+{
+  "1.2.276.0.7230010.3.1.2.296485376.1.1521713414.1800996": {
+    "album_name": "N/A",
+    "patient_id": "CQ500-CT-310",
+    "patient_name": "CQ500-CT-310",
+    "study_date": "",
+    "modalities": [
+      "CT"
+    ],
+    "total_series": 1,
+    "total_instances": 1,
+    "shareable_url": "https://kheops.example.org/api/link/42b8058c3902bf06",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/42b8058c3902bf06/ohif"
+  },
+  "1.2.999.999.99.9.9999.8888": {
+    "album_name": "N/A",
+    "patient_id": "id11111",
+    "patient_name": "Lastname^Firstname",
+    "study_date": "20030805",
+    "modalities": [
+      "RTDOSE"
+    ],
+    "total_series": 1,
+    "total_instances": 7,
+    "shareable_url": "https://kheops.example.org/api/link/fe3790dc24e9636e",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/fe3790dc24e9636e/ohif"
+  },
+  "1.3.6.1.4.1.5962.1.2.1.20040119072730.12322": {
+    "album_name": "e+1",
+    "patient_id": "1CT1",
+    "patient_name": "CompressedSamples^CT1",
+    "study_date": "20040119",
+    "modalities": [
+      "CT"
+    ],
+    "total_series": 1,
+    "total_instances": 1,
+    "shareable_url": "https://kheops.example.org/api/link/2966c9f9fbae278d",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/2966c9f9fbae278d/ohif"
+  },
+  "1.3.6.1.4.1.5962.1.2.13.20040826185059.5457": {
+    "album_name": "N/A",
+    "patient_id": "13US1",
+    "patient_name": "CompressedSamples^US1",
+    "study_date": "20040826",
+    "modalities": [
+      "US"
+    ],
+    "total_series": 1,
+    "total_instances": 2,
+    "shareable_url": "https://kheops.example.org/api/link/2b2ea77dc3272d5b",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/2b2ea77dc3272d5b/ohif"
+  },
+  "1.2.124.113532.10.122.1.203.20051130.122937.2950157": {
+    "album_name": "abdomen^liver",
+    "patient_id": "021234567",
+    "patient_name": "Sssssss^Jsssss",
+    "study_date": "20051130",
+    "modalities": [
+      "MR"
+    ],
+    "total_series": 1,
+    "total_instances": 1,
+    "shareable_url": "https://kheops.example.org/api/link/b99b47c653a8e527",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/b99b47c653a8e527/ohif"
+  },
+  "1.3.46.670589.14.1000.210.4.199999.20110525182825.1.0": {
+    "album_name": "N/A",
+    "patient_id": "11-05-25-142825",
+    "patient_name": "OB^^^^",
+    "study_date": "20110525",
+    "modalities": [
+      "US"
+    ],
+    "total_series": 1,
+    "total_instances": 1,
+    "shareable_url": "https://kheops.example.org/api/link/976b9d6128efe1a2",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/976b9d6128efe1a2/ohif"
+  },
+  "1.2.840.114340.3.8251017118051.1.20160503.120850.2171": {
+    "album_name": "Study_1.2.840.",
+    "patient_id": "204",
+    "patient_name": "PLA",
+    "study_date": "20160503",
+    "modalities": [
+      "US"
+    ],
+    "total_series": 1,
+    "total_instances": 1,
+    "shareable_url": "https://kheops.example.org/api/link/43a000782f7258af",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/43a000782f7258af/ohif"
+  },
+  "1.2.840.113619.2.21.848.246800003.0.1952805748.3": {
+    "album_name": "N/A",
+    "patient_id": "N/A",
+    "patient_name": "Anonymized",
+    "study_date": "1997.04.24",
+    "modalities": [
+      "US"
+    ],
+    "total_series": 1,
+    "total_instances": 1,
+    "shareable_url": "https://kheops.example.org/api/link/e0bb4fc83b9be087",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/e0bb4fc83b9be087/ohif"
+  },
+  "1.2.333.4444.5.6.7.8.9": {
+    "album_name": "N/A",
+    "patient_id": "N/A",
+    "patient_name": "N/A",
+    "study_date": "20150515",
+    "modalities": [
+      "RTPLAN"
+    ],
+    "total_series": 1,
+    "total_instances": 2,
+    "shareable_url": "https://kheops.example.org/api/link/ed7d08963da50324",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/ed7d08963da50324/ohif"
+  },
+  "1.3.6.1.4.1.5962.1.2.0.977067310.6001.0": {
+    "album_name": "N/A",
+    "patient_id": "",
+    "patient_name": "^^^^",
+    "study_date": "",
+    "modalities": [
+      "OT"
+    ],
+    "total_series": 1,
+    "total_instances": 1,
+    "shareable_url": "https://kheops.example.org/api/link/81c4fe0bcc740250",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/81c4fe0bcc740250/ohif"
+  },
+  "1.2.392.200036.9123.100.11.15002200303521616157144527203339851": {
+    "album_name": "Study_1.2.392.",
+    "patient_id": "JXD191021006",
+    "patient_name": "JXD191021006",
+    "study_date": "20191019",
+    "modalities": [
+      "CT"
+    ],
+    "total_series": 1,
+    "total_instances": 1,
+    "shareable_url": "https://kheops.example.org/api/link/81c0ea277e950a61",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/81c0ea277e950a61/ohif"
+  },
+  "1.3.6.1.4.1.5962.1.2.8.20040826185059.5457": {
+    "album_name": "Whole Body Bone",
+    "patient_id": "8NM1",
+    "patient_name": "CompressedSamples^NM1",
+    "study_date": "20040826",
+    "modalities": [
+      "NM"
+    ],
+    "total_series": 1,
+    "total_instances": 4,
+    "shareable_url": "https://kheops.example.org/api/link/2d3124a2a373f8f5",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/2d3124a2a373f8f5/ohif"
+  },
+  "1.2.392.200103.20080913.113635.0.2009.6.22.21.43.10.22941.1": {
+    "album_name": "N/A",
+    "patient_id": "99000",
+    "patient_name": "JANCT000",
+    "study_date": "20030417",
+    "modalities": [
+      "SEG"
+    ],
+    "total_series": 1,
+    "total_instances": 2,
+    "shareable_url": "https://kheops.example.org/api/link/ed278eb38ced563a",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/ed278eb38ced563a/ohif"
+  },
+  "1.3.6.1.4.1.5962.1.2.4.20040826185059.5457": {
+    "album_name": "N/A",
+    "patient_id": "4MR1",
+    "patient_name": "CompressedSamples^MR1",
+    "study_date": "20040826",
+    "modalities": [
+      "MR"
+    ],
+    "total_series": 1,
+    "total_instances": 9,
+    "shareable_url": "https://kheops.example.org/api/link/e4c2d72eee037e98",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/e4c2d72eee037e98/ohif"
+  },
+  "1.2.276.0.7230010.3.1.2.1787205428.166.1117461927.5": {
+    "album_name": "OFFIS Structured Reporting Templates",
+    "patient_id": "",
+    "patient_name": "Last Name^First Name",
+    "study_date": "",
+    "modalities": [
+      "SR"
+    ],
+    "total_series": 1,
+    "total_instances": 2,
+    "shareable_url": "https://kheops.example.org/api/link/253e6e8dda369dcb",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/253e6e8dda369dcb/ohif"
+  },
+  "1.22.333.4.555555.6.7777777777777777777777777777": {
+    "album_name": "N/A",
+    "patient_id": "id00001",
+    "patient_name": "Last^First^mid^pre",
+    "study_date": "20030716",
+    "modalities": [
+      "RTPLAN"
+    ],
+    "total_series": 1,
+    "total_instances": 2,
+    "shareable_url": "https://kheops.example.org/api/link/76e0f0ded8459b82",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/76e0f0ded8459b82/ohif"
+  },
+  "1.2.826.0.1.3680043.8.498.2010020400001.1": {
+    "album_name": "N/A",
+    "patient_id": "tPhantom30sep",
+    "patient_name": "Test^Phantom30sep",
+    "study_date": "",
+    "modalities": [
+      "RTSTRUCT"
+    ],
+    "total_series": 1,
+    "total_instances": 1,
+    "shareable_url": "https://kheops.example.org/api/link/719aeef7e7457a36",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/719aeef7e7457a36/ohif"
+  },
+  "1.2.826.0.1.3680043.8.498.12406831542731051035295345080039845114": {
+    "album_name": "N/A",
+    "patient_id": "ID1",
+    "patient_name": "Lestrade^G",
+    "study_date": "20170101",
+    "modalities": [
+      "OT"
+    ],
+    "total_series": 1,
+    "total_instances": 20,
+    "shareable_url": "https://kheops.example.org/api/link/11c2ff998db3beff",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/11c2ff998db3beff/ohif"
+  },
+  "1.2.826.0.1.3680043.8.498.13331179108403236084039838123417806584": {
+    "album_name": "N/A",
+    "patient_id": "",
+    "patient_name": "",
+    "study_date": "",
+    "modalities": [
+      "OT"
+    ],
+    "total_series": 1,
+    "total_instances": 2,
+    "shareable_url": "https://kheops.example.org/api/link/aafa4051a05f4e7d",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/aafa4051a05f4e7d/ohif"
+  },
+  "1.2.276.0.7230010.3.1.4.2139363186.7819.982086466.2": {
+    "album_name": "OFFIS Structured Reporting Test Document",
+    "patient_id": "",
+    "patient_name": "Test^S R",
+    "study_date": "",
+    "modalities": [
+      "SR"
+    ],
+    "total_series": 1,
+    "total_instances": 1,
+    "shareable_url": "https://kheops.example.org/api/link/702dd92424bd9861",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/702dd92424bd9861/ohif"
+  },
+  "1.3.76.13.65829.2.20130125082826.1072139.2": {
+    "album_name": "ECG",
+    "patient_id": "642341",
+    "patient_name": "Anonymous",
+    "study_date": "20130125",
+    "modalities": [
+      "ECG"
+    ],
+    "total_series": 1,
+    "total_instances": 1,
+    "shareable_url": "https://kheops.example.org/api/link/7deca16402054086",
+    "ohif_viewer_url": "https://kheops.example.org/api/link/7deca16402054086/ohif"
+  }
+}
